@@ -21,4 +21,4 @@
 
 ## Screenshots
 
-![screen1 icon](http://www.clickpic.com/audio/photo-10.PNG)![screen2 icon](http://www.clickpic.com/audio/photo-11.PNG)
+![screen1 icon](http://www.clickpic.com/audio-screens.png)!
