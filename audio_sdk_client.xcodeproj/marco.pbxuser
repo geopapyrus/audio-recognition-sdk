@@ -1,0 +1,373 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* audio_sdk_clientAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {886, 481}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 369}";
+		};
+	};
+	1D3623250D0F684500981E51 /* audio_sdk_clientAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 949}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1525}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* audio_sdk_client */ = {
+		activeExec = 0;
+		executables = (
+			A9315E0B140EA76B005A8E30 /* audio_sdk_client */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* audio_sdk_clientViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {886, 481}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 178}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* audio_sdk_clientViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1090, 1066}}";
+			sepNavSelRange = "{1148, 0}";
+			sepNavVisRange = "{991, 887}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = A9315E0B140EA76B005A8E30 /* audio_sdk_client */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* audio_sdk_client */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* audio_sdk_client */,
+		);
+		codeSenseManager = A9315E10140EA78A005A8E30 /* Code sense */;
+		executables = (
+			A9315E0B140EA76B005A8E30 /* audio_sdk_client */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					708,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					722,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					668,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 353272500;
+			PBXWorkspaceStateSaveDate = 353272500;
+		};
+		perUserProjectItems = {
+			A9093201150F192E00FA4047 /* PBXTextBookmark */ = A9093201150F192E00FA4047 /* PBXTextBookmark */;
+			A9093202150F192E00FA4047 /* PBXTextBookmark */ = A9093202150F192E00FA4047 /* PBXTextBookmark */;
+			A9093203150F192E00FA4047 /* PBXTextBookmark */ = A9093203150F192E00FA4047 /* PBXTextBookmark */;
+			A9093204150F192E00FA4047 /* PBXTextBookmark */ = A9093204150F192E00FA4047 /* PBXTextBookmark */;
+			A9093205150F192E00FA4047 /* PBXTextBookmark */ = A9093205150F192E00FA4047 /* PBXTextBookmark */;
+			A93DE944140EB3970014459E /* PlistBookmark */ = A93DE944140EB3970014459E /* PlistBookmark */;
+			A93DEB00140F51470014459E /* PBXTextBookmark */ = A93DEB00140F51470014459E /* PBXTextBookmark */;
+			A93DEB08140F51470014459E /* PBXTextBookmark */ = A93DEB08140F51470014459E /* PBXTextBookmark */;
+			A93DEB09140F51470014459E /* PBXTextBookmark */ = A93DEB09140F51470014459E /* PBXTextBookmark */;
+			A93DEB0A140F51470014459E /* PBXTextBookmark */ = A93DEB0A140F51470014459E /* PBXTextBookmark */;
+			A95E54D4143A23C000D241C0 /* PBXTextBookmark */ = A95E54D4143A23C000D241C0 /* PBXTextBookmark */;
+			A95E54D5143A23C000D241C0 /* PBXTextBookmark */ = A95E54D5143A23C000D241C0 /* PBXTextBookmark */;
+			A95E54D6143A23C000D241C0 /* PBXTextBookmark */ = A95E54D6143A23C000D241C0 /* PBXTextBookmark */;
+			A95E54D7143A23C000D241C0 /* PBXTextBookmark */ = A95E54D7143A23C000D241C0 /* PBXTextBookmark */;
+		};
+		sourceControlManager = A9315E0F140EA78A005A8E30 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32CA4F630368D1EE00C91783 /* audio_sdk_client_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {886, 528}}";
+			sepNavSelRange = "{201, 0}";
+			sepNavVisRange = "{0, 201}";
+		};
+	};
+	A9093201150F192E00FA4047 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A9315E43140EA973005A8E30 /* InfoViewController.h */;
+		name = "InfoViewController.h: 11";
+		rLen = 28;
+		rLoc = 234;
+		rType = 0;
+		vrLen = 383;
+		vrLoc = 0;
+	};
+	A9093202150F192E00FA4047 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A9315E44140EA973005A8E30 /* InfoViewController.m */;
+		name = "InfoViewController.m: 14";
+		rLen = 86;
+		rLoc = 222;
+		rType = 0;
+		vrLen = 905;
+		vrLoc = 0;
+	};
+	A9093203150F192E00FA4047 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* audio_sdk_clientViewController.m */;
+		name = "audio_sdk_clientViewController.m: 51";
+		rLen = 0;
+		rLoc = 1148;
+		rType = 0;
+		vrLen = 887;
+		vrLoc = 991;
+	};
+	A9093204150F192E00FA4047 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A9315E48140EA973005A8E30 /* record_audio_testViewController.mm */;
+		name = "record_audio_testViewController.mm: 270";
+		rLen = 48;
+		rLoc = 4791;
+		rType = 0;
+		vrLen = 487;
+		vrLoc = 4705;
+	};
+	A9093205150F192E00FA4047 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A9315E48140EA973005A8E30 /* record_audio_testViewController.mm */;
+		name = "record_audio_testViewController.mm: 274";
+		rLen = 0;
+		rLoc = 4843;
+		rType = 0;
+		vrLen = 799;
+		vrLoc = 3843;
+	};
+	A9315E0B140EA76B005A8E30 /* audio_sdk_client */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = audio_sdk_client;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A9315E0F140EA78A005A8E30 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	A9315E10140EA78A005A8E30 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	A9315E18140EA84B005A8E30 /* audio_sdk.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {886, 481}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 268}";
+		};
+	};
+	A9315E43140EA973005A8E30 /* InfoViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {886, 526}}";
+			sepNavSelRange = "{234, 28}";
+			sepNavVisRange = "{0, 383}";
+			sepNavWindowFrame = "{{15, 57}, {1189, 716}}";
+		};
+	};
+	A9315E44140EA973005A8E30 /* InfoViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {886, 637}}";
+			sepNavSelRange = "{222, 86}";
+			sepNavVisRange = "{0, 905}";
+		};
+	};
+	A9315E45140EA973005A8E30 /* record_audio_testAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {886, 503}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 512}";
+		};
+	};
+	A9315E46140EA973005A8E30 /* record_audio_testAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1034, 503}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 705}";
+		};
+	};
+	A9315E47140EA973005A8E30 /* record_audio_testViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {950, 1014}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 851}";
+			sepNavWindowFrame = "{{15, 57}, {1189, 716}}";
+		};
+	};
+	A9315E48140EA973005A8E30 /* record_audio_testViewController.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {999, 4576}}";
+			sepNavSelRange = "{4843, 0}";
+			sepNavVisRange = "{3843, 799}";
+		};
+	};
+	A93DE944140EB3970014459E /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* audio_sdk_client-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			NSMainNibFile,
+		);
+		name = "/Users/marco/Documents/audio_sdk_client/audio_sdk_client-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	A93DEB00140F51470014459E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A9315E18140EA84B005A8E30 /* audio_sdk.h */;
+		name = "audio_sdk.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 268;
+		vrLoc = 0;
+	};
+	A93DEB08140F51470014459E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* audio_sdk_clientAppDelegate.m */;
+		name = "audio_sdk_clientAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1525;
+		vrLoc = 0;
+	};
+	A93DEB09140F51470014459E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* audio_sdk_clientAppDelegate.h */;
+		name = "audio_sdk_clientAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 369;
+		vrLoc = 0;
+	};
+	A93DEB0A140F51470014459E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* audio_sdk_clientViewController.h */;
+		name = "audio_sdk_clientViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 178;
+		vrLoc = 0;
+	};
+	A95E54D4143A23C000D241C0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* audio_sdk_client_Prefix.pch */;
+		name = "audio_sdk_client_Prefix.pch: 9";
+		rLen = 0;
+		rLoc = 201;
+		rType = 0;
+		vrLen = 201;
+		vrLoc = 0;
+	};
+	A95E54D5143A23C000D241C0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A9315E45140EA973005A8E30 /* record_audio_testAppDelegate.h */;
+		name = "record_audio_testAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 512;
+		vrLoc = 0;
+	};
+	A95E54D6143A23C000D241C0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A9315E46140EA973005A8E30 /* record_audio_testAppDelegate.m */;
+		name = "record_audio_testAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 705;
+		vrLoc = 0;
+	};
+	A95E54D7143A23C000D241C0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A9315E47140EA973005A8E30 /* record_audio_testViewController.h */;
+		name = "record_audio_testViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 851;
+		vrLoc = 0;
+	};
+}
